@@ -1,14 +1,15 @@
 ## Education
 ### Northern Arizona University | May 2026
-Major: Data Science
-Minors: Mathematics and Statistics
-GPA: 4.0
+**Major:** Data Science
+
+**Minors:** Mathematics and Statistics
+
+**GPA:** 4.0
 
 ## Technical Skills
-### Programming Languages:
-Python, Java, R, C, and SQL
-### Applications:
-Microsoft Office, Google Suite, and QuickBooks
+**Proficient:** Python, Java, C, SQL, and R programming
+**Experienced:** Microsoft Office, Google Suite, and QuickBooks
+**Certified:** SolidWorks and Revit Associate
 
 ## Projects
 ### Depression, Anxiety, and Stress Scale (DASS) Score Evaluation
