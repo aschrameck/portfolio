@@ -7,12 +7,14 @@
 **GPA:** 4.0
 
 
+
 ## Technical Skills
 **Proficient:** Python, Java, C, SQL, and R programming
 
 **Experienced:** Microsoft Office, Google Suite, and QuickBooks
 
 **Certified:** SolidWorks and Revit Associate
+
 
 
 ## Projects
@@ -25,6 +27,7 @@
 
 ● Utilized **Python** (Pandas, NumPy, Matplotlib) for data cleaning, manipulation, and visualization.
 
+
 ### World Happiness Score Analysis
 ● Analyzed data from the 2021 Gallup World Poll to investigate the relationships between happiness scores, GDP per capita, and healthy life expectancy across 150 countries.
 
@@ -34,6 +37,7 @@
 
 ● Utilized **R** for data cleaning, statistical analysis, and visualization, ensuring the production of accurate and interpretable results.
 
+
 ### Currency Converter
 ● Collaborated with a team to develop a Java-based currency converter application designed to provide accurate currency exchange values.
 
@@ -42,6 +46,7 @@
 ● Conducted rigorous testing to ensure the application delivered accurate exchange rates and handled edge cases effectively.
 
 ● Utilized **Java** for backend development, focusing on robust exception handling and accurate calculations.
+
 
 
 ## Work Experience
