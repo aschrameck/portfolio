@@ -39,6 +39,7 @@
 
 
 ### Currency Converter
+[GitHub Link] (https://github.com/aschrameck/Currency-Converter)
 ● Collaborated with a team to develop a Java-based currency converter application designed to provide accurate currency exchange values.
 
 ● Designed and developed an intuitive user interface to allow users to easily input amounts and select currencies for conversion.
