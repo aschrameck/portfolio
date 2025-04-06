@@ -1,5 +1,5 @@
 title: Aubrey Schrameck
 logo: /assets/images/headshot.1.jpg
-description: [LinkedIn](https://www.linkedin.com/in/aubrey-schrameck-3670a1341/)
-show_dowload: true
+#description:
+show_dowload: false
 theme: jekyll-theme-minimal
