@@ -19,6 +19,8 @@
 
 # Projects
 ### Depression, Anxiety, and Stress Scale (DASS) Score Evaluation
+**[GitHub Link](https://github.com/aschrameck/DASS)**
+
 ● Conducted a comprehensive analysis of scores from nearly 40,000 participants who completed the online DASS, ensuring the accuracy of their responses for research purposes.
 
 ● Implemented data preprocessing techniques to refine the dataset by isolating illness-specific questions and excluding participants who did not meet the diagnostic criteria.
@@ -29,6 +31,8 @@
 
 
 ### World Happiness Score Analysis
+**[GitHub Link](https://github.com/aschrameck/World-Happiness-Scores)**
+
 ● Analyzed data from the 2021 Gallup World Poll to investigate the relationships between happiness scores, GDP per capita, and healthy life expectancy across 150 countries.
 
 ● Discovered a strong positive correlation between happiness, GDP per capita, and healthy life expectancy.
@@ -39,7 +43,8 @@
 
 
 ### Currency Converter
-[GitHub Link] (https://github.com/aschrameck/Currency-Converter)
+**[GitHub Link](https://github.com/aschrameck/Currency-Converter)**
+
 ● Collaborated with a team to develop a Java-based currency converter application designed to provide accurate currency exchange values.
 
 ● Designed and developed an intuitive user interface to allow users to easily input amounts and select currencies for conversion.
