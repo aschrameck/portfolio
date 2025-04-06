@@ -1,4 +1,4 @@
-## Education
+# Education
 ### Northern Arizona University   |   May 2026
 **Major:** Data Science
 
@@ -8,7 +8,7 @@
 
 
 
-## Technical Skills
+# Technical Skills
 **Proficient:** Python, Java, C, SQL, and R programming
 
 **Experienced:** Microsoft Office, Google Suite, and QuickBooks
@@ -17,7 +17,7 @@
 
 
 
-## Projects
+# Projects
 ### Depression, Anxiety, and Stress Scale (DASS) Score Evaluation
 ● Conducted a comprehensive analysis of scores from nearly 40,000 participants who completed the online DASS, ensuring the accuracy of their responses for research purposes.
 
@@ -49,7 +49,7 @@
 
 
 
-## Work Experience
+# Work Experience
 ### Whole Foods Market 
 **Prepared Foods Kitchen Team Member**
 
