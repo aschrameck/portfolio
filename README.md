@@ -72,11 +72,10 @@
 ### Master Safety Partners LLC 
 **Account Associate**
 
-● Executed accounting tasks, including creating invoices, processing payments, and compiling financial reports.
+● Managed core accounting tasks, including creating invoices, processing payments, and compiling financial reports to support day-to-day business operations.
 
-● Successfully recovered over $26,000 from overdue accounts, enhancing the company’s cash flow.
+● Recovered over $26,000 from overdue accounts, improving cash flow and client account management.
 
-● Managed communication effectively through phone and email, ensuring timely responses and customer satisfaction.
+● Maintained clear and professional communication with clients via phone and email, ensuring timely resolution of inquiries and outstanding issues.
 
-● Performed receptionist duties and administered drug tests, contributing to overall office efficiency.
-
+● Supported office operations through reception duties and administration of ADOT-compliant drug and alcohol testing.
