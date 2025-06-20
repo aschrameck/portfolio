@@ -4,7 +4,7 @@
 
 **Minors:** Mathematics and Statistics
 
-**GPA:** 4.0
+**GPA:** 3.8
 
 
 
@@ -45,25 +45,28 @@
 ### Currency Converter
 **[GitHub Link](https://github.com/aschrameck/Currency-Converter)**
 
-● Collaborated with a team to develop a Java-based currency converter application designed to provide accurate currency exchange values.
+● Collaborated with a team to develop a Java-based currency converter for accurate real-time exchange calculations.
 
-● Designed and developed an intuitive user interface to allow users to easily input amounts and select currencies for conversion.
+● Designed and implemented an intuitive graphical user interface (GUI) to streamline user input and currency selection.
 
-● Conducted rigorous testing to ensure the application delivered accurate exchange rates and handled edge cases effectively.
+● Conducted comprehensive testing to ensure accuracy, performance, and resilience to edge cases and input errors.
 
-● Utilized **Java** for backend development, focusing on robust exception handling and accurate calculations.
+● Utilized **Java** for backend development, emphasizing robust exception handling and precise currency conversion logic.
+
 
 
 
 # Work Experience
-### Whole Foods Market 
-**Prepared Foods Kitchen Team Member**
+### City of Phoenix
+**Finance Department Intern – Enterprise Resource Planning (ERP) Division**
 
-● Ensured organization and maintained high cleanliness standards to promote a safe working environment.
+● Supported the City’s ERP team by assisting with data cleaning and preparation for system archiving.
 
-● Conducted maintenance and troubleshooting of kitchen machinery to minimize downtime.
+● Contributed to end-of-year financial processing, including reconciliation support and cross-departmental coordination to help close the fiscal year efficiently.
 
-● Effectively managed multiple tasks while supporting coworkers to facilitate smooth operations.
+● Managed and updated cost center hierarchies within the ERP system to reflect organizational changes and improve reporting accuracy.
+
+● Gained hands-on experience working with large-scale government financial systems and data structures, building a foundation in public sector finance and enterprise data management.
 
 
 ### Master Safety Partners LLC 
