@@ -2,7 +2,7 @@
 
 As a **Data Science major** at Northern Arizona University (graduating May 2026) with dual minors in **Mathematics and Statistics**, I am passionate about using data to uncover patterns, generate insights, and solve real-world problems.  
 
-My technical foundation includes programming languages such as **Python, R, SQL, Java, and C**, complemented by experience with **SAP Analytics Cloud, Excel, QuickBooks, and Microsoft Office**. Beyond academics, I have applied these skills in both **research**, developing deep learning models to analyze volcanic landforms through the NASA Space Grant Research Program, and in **industry**, streamlining financial data workflows and eliminating $162.5M in obsolete records during my internship with the City of Phoenix ERP Division.  
+My technical foundation includes programming languages such as **Python, R, SQL, Java, and C**, complemented by experience with **SAP Analytics Cloud, Excel, QuickBooks, and Microsoft Office**. Beyond academics, I have applied these skills in both research, developing deep learning models to analyze volcanic landforms through the NASA Space Grant Research Program, and in industry, streamlining financial data workflows and eliminating $162.5M in obsolete records during my internship with the City of Phoenix ERP Division.  
 
 Looking ahead, I aim to apply data science to drive positive impact in public and private sector industries, leveraging analytics to inform decisions, improve systems, and support communities through evidence-based strategies.  
 
@@ -20,7 +20,27 @@ Looking ahead, I aim to apply data science to drive positive impact in public an
 # Technical Skills  
 - Languages: Python, R, SQL, Java, C  
 - Software: SAP Analytics Cloud, Excel, QuickBooks, Microsoft Office, Google Suite  
-- Core Skills: Data cleaning, statistical modeling, visualization, machine learning, database management  
+- Other: Data cleaning, statistical modeling, visualization, machine learning, database management  
+
+---
+
+# Work Experience  
+
+### NASA Space Grant Research Program | Undergraduate Researcher  
+*Aug 2025 – Present*  
+- Quantified volcanic cone and crater morphologies using USGS 3DEP data.  
+- Trained deep learning models in Python & R to classify eruption styles.  
+- Applied methods to volcanic landforms on Mars and the Moon.  
+- Research will culminate in a symposium presentation and a peer-reviewed publication.  
+
+---
+
+### City of Phoenix – Finance Department | Data Cleaning Intern (ERP Division)  
+*May 2025 – Aug 2025*  
+- Cleaned and reconciled large-scale financial datasets to support year-end closeouts.  
+- Eliminated $162.5M in obsolete shopping carts, improving reporting accuracy.  
+- Audited and validated purchase orders, contracts, and cost center hierarchies.  
+- Streamlined reporting workflows using SAP (ECC, SRM), Excel, and SAP Analytics Cloud.  
 
 ---
 
@@ -53,22 +73,4 @@ Looking ahead, I aim to apply data science to drive positive impact in public an
 
 ---
 
-# Work Experience  
 
-### NASA Space Grant Research Program | Undergraduate Researcher  
-*Aug 2025 – Present*  
-- Quantified volcanic cone and crater morphologies using USGS 3DEP data.  
-- Trained deep learning models in Python & R to classify eruption styles.  
-- Applied methods to volcanic landforms on Mars and the Moon.  
-- Research will culminate in a symposium presentation and a peer-reviewed publication.  
-
----
-
-### City of Phoenix – Finance Department | Data Cleaning Intern (ERP Division)  
-*May 2025 – Aug 2025*  
-- Cleaned and reconciled large-scale financial datasets to support year-end closeouts.  
-- Eliminated $162.5M in obsolete shopping carts, improving reporting accuracy.  
-- Audited and validated purchase orders, contracts, and cost center hierarchies.  
-- Streamlined reporting workflows using SAP (ECC, SRM), Excel, and SAP Analytics Cloud.  
-
----
