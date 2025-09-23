@@ -1,81 +1,74 @@
-# Education
-### Northern Arizona University   |   May 2026
-**Major:** Data Science
+# Introduction  
 
-**Minors:** Mathematics and Statistics
+As a **Data Science major** at Northern Arizona University (graduating May 2026) with dual minors in **Mathematics and Statistics**, I am passionate about using data to uncover patterns, generate insights, and solve real-world problems.  
 
-**GPA:** 3.8
+My technical foundation includes programming languages such as **Python, R, SQL, Java, and C**, complemented by experience with **SAP Analytics Cloud, Excel, QuickBooks, and Microsoft Office**. Beyond academics, I have applied these skills in both **research**, developing deep learning models to analyze volcanic landforms through the NASA Space Grant Research Program, and in **industry**, streamlining financial data workflows and eliminating $162.5M in obsolete records during my internship with the City of Phoenix ERP Division.  
 
+Looking ahead, I aim to apply data science to drive positive impact in public and private sector industries, leveraging analytics to inform decisions, improve systems, and support communities through evidence-based strategies.  
 
+---
 
-# Technical Skills
-**Proficient:** Python, Java, C, SQL, and R programming
+# Education  
+### Northern Arizona University | Expected May 2026  
+- Major: Data Science  
+- Minors: Mathematics & Statistics  
+- GPA: 3.9  
+- Scholarships: Lumberjack, Johanna Wheaton, and NAU Retirees Association  
 
-**Experienced:** Microsoft Office, Google Suite, and QuickBooks
+---
 
-**Certified:** SolidWorks and Revit Associate
+# Technical Skills  
+- Languages: Python, R, SQL, Java, C  
+- Software: SAP Analytics Cloud, Excel, QuickBooks, Microsoft Office, Google Suite  
+- Core Skills: Data cleaning, statistical modeling, visualization, machine learning, database management  
 
+---
 
+# Projects  
 
-# Projects
-### Depression, Anxiety, and Stress Scale (DASS) Score Evaluation
-**[GitHub Link](https://github.com/aschrameck/DASS)**
+### Depression, Anxiety, and Stress Scale (DASS) Evaluation  
+**[GitHub Link](https://github.com/aschrameck/DASS)**  
+- Analyzed survey responses from ~40,000 participants to assess response accuracy and reliability.  
+- Preprocessed data by isolating illness-specific questions and excluding non-diagnostic cases.  
+- Built visualizations to reveal mental health condition patterns.  
+- Tools: Python (Pandas, NumPy, Matplotlib)  
 
-● Conducted a comprehensive analysis of scores from nearly 40,000 participants who completed the online DASS, ensuring the accuracy of their responses for research purposes.
+---
 
-● Implemented data preprocessing techniques to refine the dataset by isolating illness-specific questions and excluding participants who did not meet the diagnostic criteria.
+### World Happiness Score Analysis  
+**[GitHub Link](https://github.com/aschrameck/World-Happiness-Scores)**  
+- Analyzed Gallup World Poll data for 150+ countries, exploring links between happiness, GDP per capita, and life expectancy.  
+- Discovered strong positive correlations among happiness, wealth, and health metrics.  
+- Developed visualizations to illustrate global trends and insights.  
+- Tools: R (data cleaning, statistical analysis, visualization)  
 
-● Created statistical visualizations to illustrate average scores for each relevant question, revealing insights into patterns of mental health conditions.
+---
 
-● Utilized **Python** (Pandas, NumPy, Matplotlib) for data cleaning, manipulation, and visualization.
+### Currency Converter  
+**[GitHub Link](https://github.com/aschrameck/Currency-Converter)**  
+- Collaborated on a Java-based currency converter with real-time exchange calculations.  
+- Designed and implemented a GUI for user-friendly interactions.  
+- Ensured robust exception handling and accuracy through comprehensive testing.  
+- Tools: Java (GUI development, backend logic)  
 
+---
 
-### World Happiness Score Analysis
-**[GitHub Link](https://github.com/aschrameck/World-Happiness-Scores)**
+# Work Experience  
 
-● Analyzed data from the 2021 Gallup World Poll to investigate the relationships between happiness scores, GDP per capita, and healthy life expectancy across 150 countries.
+### NASA Space Grant Research Program | Undergraduate Researcher  
+*Aug 2025 – Present*  
+- Quantified volcanic cone and crater morphologies using USGS 3DEP data.  
+- Trained deep learning models in Python & R to classify eruption styles.  
+- Applied methods to volcanic landforms on Mars and the Moon.  
+- Research will culminate in a symposium presentation and a peer-reviewed publication.  
 
-● Discovered a strong positive correlation between happiness, GDP per capita, and healthy life expectancy.
+---
 
-● Developed clear and insightful visualizations to showcase global trends in happiness scores, GDP per capita, and life expectancy, along with their interrelationships.
+### City of Phoenix – Finance Department | Data Cleaning Intern (ERP Division)  
+*May 2025 – Aug 2025*  
+- Cleaned and reconciled large-scale financial datasets to support year-end closeouts.  
+- Eliminated $162.5M in obsolete shopping carts, improving reporting accuracy.  
+- Audited and validated purchase orders, contracts, and cost center hierarchies.  
+- Streamlined reporting workflows using SAP (ECC, SRM), Excel, and SAP Analytics Cloud.  
 
-● Utilized **R** for data cleaning, statistical analysis, and visualization, ensuring the production of accurate and interpretable results.
-
-
-### Currency Converter
-**[GitHub Link](https://github.com/aschrameck/Currency-Converter)**
-
-● Collaborated with a team to develop a Java-based currency converter for accurate real-time exchange calculations.
-
-● Designed and implemented an intuitive graphical user interface (GUI) to streamline user input and currency selection.
-
-● Conducted comprehensive testing to ensure accuracy, performance, and resilience to edge cases and input errors.
-
-● Utilized **Java** for backend development, emphasizing robust exception handling and precise currency conversion logic.
-
-
-
-
-# Work Experience
-### City of Phoenix
-**Finance Department Intern – Enterprise Resource Planning (ERP) Division**
-
-● Supported the City’s ERP team by assisting with data cleaning and preparation for system archiving.
-
-● Contributed to end-of-year financial processing, including reconciliation support and cross-departmental coordination to help close the fiscal year efficiently.
-
-● Managed and updated cost center hierarchies within the ERP system to reflect organizational changes and improve reporting accuracy.
-
-● Gained hands-on experience working with large-scale government financial systems and data structures, building a foundation in public sector finance and enterprise data management.
-
-
-### Master Safety Partners LLC 
-**Account Associate**
-
-● Managed core accounting tasks, including creating invoices, processing payments, and compiling financial reports to support day-to-day business operations.
-
-● Recovered over $26,000 from overdue accounts, improving cash flow and client account management.
-
-● Maintained clear and professional communication with clients via phone and email, ensuring timely resolution of inquiries and outstanding issues.
-
-● Supported office operations through reception duties and administration of ADOT-compliant drug and alcohol testing.
+---
