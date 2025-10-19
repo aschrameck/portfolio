@@ -8,43 +8,25 @@ Looking ahead, I aim to apply data science to drive positive impact in public an
 
 ---
 
-# Education  
-### Northern Arizona University | Expected May 2026  
-- Major: Data Science  
-- Minors: Mathematics & Statistics  
-- GPA: 3.9  
-- Scholarships: Lumberjack, Johanna Wheaton, and NAU Retirees Association  
-
----
-
-# Technical Skills  
-- Languages: Python, R, SQL, Java, C  
-- Software: SAP Analytics Cloud, Excel, QuickBooks, Microsoft Office, Google Suite  
-- Other: Data cleaning, statistical modeling, visualization, machine learning, database management  
-
----
-
-# Work Experience  
-
-### NASA Space Grant Research Program | Undergraduate Researcher  
-*Aug 2025 – Present*  
-- Quantified volcanic cone and crater morphologies using USGS 3DEP data.  
-- Trained deep learning models in Python & R to classify eruption styles.  
-- Applied methods to volcanic landforms on Mars and the Moon.  
-- Research will culminate in a symposium presentation and a peer-reviewed publication.  
-
----
-
-### City of Phoenix – Finance Department | Data Cleaning Intern (ERP Division)  
-*May 2025 – Aug 2025*  
-- Cleaned and reconciled large-scale financial datasets to support year-end closeouts.  
-- Eliminated $162.5M in obsolete shopping carts, improving reporting accuracy.  
-- Audited and validated purchase orders, contracts, and cost center hierarchies.  
-- Streamlined reporting workflows using SAP (ECC, SRM), Excel, and SAP Analytics Cloud.  
-
----
-
 # Projects  
+
+### Automated Volcanic Field DEM Analysis (NASA Space Grant Project)
+**[GitHub Link](https://github.com/aschrameck/Volcanic-DEM-Analysis)**  
+- Developing a Python function to extract the DEM of a volcanic cone using radial slope sampling and adaptive edge detection, outputting crater and base boundary polygons and a segmented raster.
+- Writing a function to automate extracting measurements such as ellipticity, elongation, isoperimetric circularity, and basal area.
+- Plan to perform cluster analysis in R to classify landform types and identify patterns in morphological features.
+- Tools: Python (DEM processing, function automation), R (cluster analysis, statistical modeling, data visualization).
+
+---
+
+### aksStat R Package
+**[GitHub Link](https://github.com/aschrameck/aksStat)**  
+- Developed an R package for statistical simulations, including random number generation, MCMC sampling, subset cross-validation, and Gelman diagnostics.
+- Implemented core functions: accept_reject_rn(), inverse.cdf.rn(), mcmc_sampling(), gelman_diag(), subset.cross.validation(), and tune.k().
+- Authored comprehensive documentation with usage examples to facilitate reproducibility and ease of use.
+- Tools: R (package development, statistical modeling, function testing, documentation).
+
+---
 
 ### Depression, Anxiety, and Stress Scale (DASS) Evaluation  
 **[GitHub Link](https://github.com/aschrameck/DASS)**  
@@ -73,4 +55,31 @@ Looking ahead, I aim to apply data science to drive positive impact in public an
 
 ---
 
+# Work Experience  
 
+### NASA Space Grant Research Program | Undergraduate Researcher  
+*Aug 2025 – Present*  
+- Quantified volcanic cone and crater morphologies using USGS 3DEP data.  
+- Trained deep learning models in Python & R to classify eruption styles.  
+- Applied methods to volcanic landforms on Mars and the Moon.  
+- Research will culminate in a symposium presentation and a peer-reviewed publication.  
+
+---
+
+### City of Phoenix – Finance Department | Data Cleaning Intern (ERP Division)  
+*May 2025 – Aug 2025*  
+- Cleaned and reconciled large-scale financial datasets to support year-end closeouts.  
+- Eliminated $162.5M in obsolete shopping carts, improving reporting accuracy.  
+- Audited and validated purchase orders, contracts, and cost center hierarchies.  
+- Streamlined reporting workflows using SAP (ECC, SRM), Excel, and SAP Analytics Cloud.  
+
+---
+
+# Education  
+### Northern Arizona University | Expected May 2026  
+- Major: Data Science  
+- Minors: Mathematics & Statistics  
+- GPA: 3.9  
+- Scholarships: Lumberjack, Johanna Wheaton, and NAU Retirees Association  
+
+---
