@@ -10,6 +10,14 @@ Looking ahead, I aim to apply data science to drive positive impact in public an
 
 # Projects  
 
+### Interactive Plate Analysis Application - TERM Laboratory
+**[GitHub Link](https://github.com/aschrameck/Plate-Reader-Web-Application)**  
+- Built a scalable R Shiny platform to automate ingestion, validation, normalization, and export of high-throughput assay data.
+- Reduced manual preprocessing steps by implementing automated data validation and transformation pipelines.
+- Developed an intuitive card-based UI with plate selection controls, download modules, and state-aware navigation.
+- Designed export formats compatible with downstream statistical software (CSV, GraphPad Prism).
+- Applied statistical normalization techniques and ensured reproducibility through modular server functions.
+
 ### Automated Volcanic Field DEM Analysis (NASA Space Grant Project)
 **[GitHub Link](https://github.com/aschrameck/Volcanic-DEM-Analysis)**  
 - Developing a Python function to extract the DEM of a volcanic cone using radial slope sampling and adaptive edge detection, outputting crater and base boundary polygons and a segmented raster.
