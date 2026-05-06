@@ -18,12 +18,24 @@ Looking ahead, I aim to apply data science to drive positive impact in public an
 - Designed export formats compatible with downstream statistical software (CSV, GraphPad Prism).
 - Applied statistical normalization techniques and ensured reproducibility through modular server functions.
 
+---
+
 ### Automated Volcanic Field DEM Analysis (NASA Space Grant Project)
 **[GitHub Link](https://github.com/aschrameck/Volcanic-DEM-Analysis)**  
 - Developing a Python function to extract the DEM of a volcanic cone using radial slope sampling and adaptive edge detection, outputting crater and base boundary polygons and a segmented raster.
 - Writing a function to automate extracting measurements such as ellipticity, elongation, isoperimetric circularity, and basal area.
 - Plan to perform cluster analysis in R to classify landform types and identify patterns in morphological features.
 - Tools: Python (DEM processing, function automation), R (cluster analysis, statistical modeling, data visualization).
+
+---
+
+### Time Series Analysis of University Retention Rates
+**[GitHub Link](https://github.com/aschrameck/Student-Retention-Time-Series-Analysis)**  
+- Conducted a large-scale time series analysis using IPEDS retention data from 2003–2024.
+- Compared ARIMA, ETS, and regression models with ARMA errors for forecasting student retention trends.
+- Integrated economic indicators, including unemployment rate and median household income, into forecasting models.
+- Performed residual diagnostics, model evaluation, and forecasting accuracy comparisons using RMSE, MAE, AIC, and BIC.
+- Identified limitations of univariate forecasting and demonstrated the value of external predictors in retention modeling.
 
 ---
 
@@ -66,7 +78,7 @@ Looking ahead, I aim to apply data science to drive positive impact in public an
 # Work Experience  
 
 ### NASA Space Grant Research Program | Undergraduate Researcher  
-*Aug 2025 – Present*  
+*Aug 2025 – May 2026*  
 - Quantified volcanic cone and crater morphologies using USGS 3DEP data.  
 - Trained deep learning models in Python & R to classify eruption styles.  
 - Applied methods to volcanic landforms on Mars and the Moon.  
@@ -84,8 +96,11 @@ Looking ahead, I aim to apply data science to drive positive impact in public an
 ---
 
 # Education  
-### Northern Arizona University | Expected May 2026  
-- Major: Data Science  
+### University of Arizona | August 2027 
+- Master of Science - Data Science  
+
+### Northern Arizona University | May 2026  
+- Bachelor of Science - Data Science  
 - Minors: Mathematics & Statistics  
 - GPA: 3.9  
 - Scholarships: Lumberjack, Johanna Wheaton, and NAU Retirees Association  
